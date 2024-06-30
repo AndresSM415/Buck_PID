@@ -1,3 +1,0 @@
-C:/lenguajes/pico/pico-programas/BUCK_2_PID/build/pioasm/CMakeFiles/pioasm.dir
-C:/lenguajes/pico/pico-programas/BUCK_2_PID/build/pioasm/CMakeFiles/edit_cache.dir
-C:/lenguajes/pico/pico-programas/BUCK_2_PID/build/pioasm/CMakeFiles/rebuild_cache.dir
